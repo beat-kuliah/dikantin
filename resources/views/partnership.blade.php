@@ -1,0 +1,10 @@
+@include("style")
+@include("navbar")
+<html>
+<head>
+    <title>Partnersip</title>
+</head>
+<body>
+<h1>Partnersip</h1>
+</body>
+</html>
